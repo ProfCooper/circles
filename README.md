@@ -1,4 +1,4 @@
-# Intro to Continuous Integration in GitHub Classroom
+# Introduction to Continuous Integration in GitHub Classroom
 
 ## Overview
 
