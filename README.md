@@ -2,15 +2,14 @@
 
 ## Overview
 
-In this session, we will learn about continuous integration (CI) by doing some hands-on examples to get a feel for how it works.  In our examples, we will use CI to automatically perform unit testing on python scripts and to check that they conform to the `flake8` style guide.
+In this session, we will learn about continuous integration (CI) by doing some hands-on examples to get a feel for how it works.  In our examples, we are using CI to automatically perform unit testing on python scripts and to check that they conform to the `flake8` style guide.
 
-The session is broken into three parts:
+The session is broken into two parts:
 
 1. Edit a python script to ensure it passes all the unit tests.
 1. Add new unit tests and amend your python script to pass those also.
-1. Set up your own classroom to execute unit tests.
 
-Getting CI and unit testing right can be fiddly, but it is incredibly powerful and is potentially a universal solution to automating assessment and feedback.
+Getting CI and unit testing right can be fiddly, but it is incredibly powerful and is an important aspect of programming and software development.
 
 ## Part I: fixing a script
 
